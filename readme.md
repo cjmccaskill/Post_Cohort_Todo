@@ -3,7 +3,7 @@
 
 ## Preface
 
-Now that you've completed your General Assembly Cohort, the mission to find your first role in the tech industry begins. You should allocate the hours you'll been dedicating to class to this mission.
+Now that you've completed your General Assembly Cohort, the mission to find your first role in the tech industry begins. You should allocate the hours you'll been dedicating to class to this mission. Also, once you do find a role you may lose access to the GA Students Slack, to stay in touch join the devNursery.com slack and discord communities.
 
 My recommendation is to split this time:
 - 25% Doing Code Challenges
