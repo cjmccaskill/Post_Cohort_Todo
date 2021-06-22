@@ -39,7 +39,7 @@ Other Great Free Courses to Expand Skills:
 - [Severless Framework Courses](https://www.serverless.com/courses/)
 - [FaunaDB Courses/TUtorials](https://docs.fauna.com/fauna/current/tutorials/index.html)
 - [Fullstack with SailsJS](https://sailsjs.com/documentation/tutorials/full-stack-java-script-with-sails)
-- [StrapiJS Docs and Tutorials](https://strapi.io/resource-center)
+- [StrapiJS Self-Hosted Headless CMS Docs and Tutorials](https://strapi.io/resource-center)
 
 As you learn things, build small projects to practice what you learned and deploy them!
 
@@ -58,3 +58,31 @@ Goal: Minimum 5 hours/wk, 10 quality applications, + 20 LinkedIn Easy Applies (3
 - Create a youtube channel and record yourself doing code challenges and explaining your process
 - Blog on dev.to, if you get a lot of views, you may be hired by LogRocket or Digital Ocean to write posts at $300+ per post
 - Offer Local Restaurants, Photographers, etc. free websites to build a reputation and portfolio. If they are happy they can recommend you to paying clients.
+
+## Bonus Tips on Freelancing
+
+A Powerful Combination for Freelancing is the Headless CMS + Static Site Generator Combo (The JAM Stack).
+
+**LIST OF HEADLESS CMS:**
+*Headless CMS provides a GUI create content that is then provided to your frontend via a REST or GraphQL API*
+- [Wordpress API](https://developer.wordpress.org/rest-api/)
+- [Contentful](https://www.contentful.com/)
+- [ButterCMS](https://buttercms.com/?gclid=Cj0KCQjwlMaGBhD3ARIsAPvWd6jIG_myUFBq7BNNonCDZZxtz2UGrv-MMz3M2iXG-X3-gEtPbCU8wSoaAjnJEALw_wcB)
+- [AgilityCMS](https://agilitycms.com/)
+- [Sanity.io](https://www.sanity.io/)
+- [GraphCMS](https://graphcms.com/)
+- For more checkout JAMStack.org
+
+**Static Site Generators**
+They pull information from different sources like a Headless CMS or your own custom API, and use your code written in your favorite frontend framework to generate a static HTML/CSS/JS web page that is fast, secure and better for SEO.
+- Gatsby(React)
+- NextJS(React)
+- SvelteKit(Svelte)
+- ElderJS(Svelte)
+- Gridsome(Vue)
+- Nuxt(Vue)
+- Scully(Angular)
+- For more checkout JAMStack.org
+
+So by Pairing a Headless CMS with a SSG, you can give your client a GUI dashboard they can manage their website but make it fast, low cost, secure and amazing for SEO by statically generating the output. A must learn for freelancing.
+
