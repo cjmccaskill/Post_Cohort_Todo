@@ -43,10 +43,11 @@ Other Great Free Courses to Expand Skills:
 
 As you learn things, build small projects to practice what you learned and deploy them!
 
-## Sending Out Job Application
+## Sending Out Job Applications
 
 - Expect output of 2 Quality Applications in one hour (Custom Cover Letter + Resume)
-- For each quality resume supplement with 3 LinkedIn Quick Apply's
+- For each quality resume supplement with 4 LinkedIn Quick Apply's
+Goal: Minimum 5 hours/wk, 10 quality applications, + 20 LinkedIn Easy Applies (30 applications a week, MINIMUM)
 
 
 ## Branding Networking
