@@ -100,3 +100,13 @@ Additional Ceritifications will only make you more marketable and improve your s
 - [Graph Database Certification](https://neo4j.com/graphacademy/neo4j-certification/)
 - [Shopify Partner Training](https://www.shopify.com/partners/academy)
 
+## BONUS Blockchain Development
+- [Ethereum Development](https://ethereum.org/en/developers/)
+- [Algorand Development](https://developer.algorand.org/)
+- [Stellar Development](https://www.stellar.org/developers?utm_term=%2Bblockchain%20%2Bdevelopment&utm_campaign=Search:+Blockchain+Development&utm_source=adwords&utm_medium=ppc&hsa_acc=8782384464&hsa_cam=10367308229&hsa_grp=103960929795&hsa_ad=494429028414&hsa_src=g&hsa_tgt=kwd-301255712549&hsa_kw=%2Bblockchain%20%2Bdevelopment&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwlMaGBhD3ARIsAPvWd6jI1CY65RLM1f6LqZTkxgM0BFASXiCDhhDQT9YTj-IroegJJtMe4n4aAjUuEALw_wcB)
+- [EOS Development](https://developers.eos.io/)
+- [Stacks - Building Apps on the Bitcoin Blockchain](https://www.stacks.co/)
+- [Polkadot Development](https://polkadot.network/build/)
+- [Waves Development](https://developer.waveapps.com/hc/en-us)
+- [Cardano Development](https://docs.cardano.org/)
+- [Ethereum Classic Development](https://ethereumclassic.org/development)
