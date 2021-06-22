@@ -13,14 +13,14 @@ My recommendation is to split this time:
 
 ## Doing Code Challenges
 
-You can do coding challenges at the following places:
+**You can do coding challenges at the following places:**
 - [CodeWars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [l33tcode](https://leetcode.com/)
 - [SqlZoo](https://sqlzoo.net/)
 - [CoderByte](https://coderbyte.com/)
 
-Advice:
+**Advice:**
 - organize your answers into a repo, to help build your github commit history and to make easy employers to see your practice
 - have a scratch file open to try out idea or test out things you want to try in isolation before applying it to the challenge
 - Don't hesitate to read langauge documentation to get more depth about something unclear
@@ -85,4 +85,18 @@ They pull information from different sources like a Headless CMS or your own cus
 - For more checkout JAMStack.org
 
 So by Pairing a Headless CMS with a SSG, you can give your client a GUI dashboard they can manage their website but make it fast, low cost, secure and amazing for SEO by statically generating the output. A must learn for freelancing.
+
+## BONUS Certifications
+Additional Ceritifications will only make you more marketable and improve your skill set, here is a list of some popular certifications.
+-[AWS Cloud Certification](https://aws.amazon.com/certification/?trk=ps_a134p000006gXRtAAM&trkCampaign=GLBL-FY21-TrainCert-Certification_PaidSearch&sc_channel=PS&sc_campaign=FY21-TrainCert-Certification_PaidSearch&sc_publisher=Google&sc_category=Training%20and%20Certification&sc_country=US&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws%20certification&sc_content=General_exact&sc_matchtype=e&sc_segment=464830920922&sc_medium=TC-P|PS-GO|Brand|Desktop|AW|Training%20and%20Certification|Certification|US|EN|Text|xx|B2I&s_kwcid=AL!4422!3!464830920922!e!!g!!aws%20certification&ef_id=Cj0KCQjwlMaGBhD3ARIsAPvWd6gUfkrCWUT0SFPj5bdZHTF8JkfykprhCLvBhVX4lEeVDJOB0MmWsWYaAh7SEALw_wcB:G:s&s_kwcid=AL!4422!3!464830920922!e!!g!!aws%20certification)
+-[Google Cloud Certification](https://cloud.google.com/certification)
+-[MS Azure Cloud Certification](https://docs.microsoft.com/en-us/learn/certifications/)
+-[MongoDB Professional Certification](https://university.mongodb.com/certification)
+-[Salesforce Certification](https://www.salesforce.com/content/dam/web/en_us/www/documents/datasheets/certification-guide.pdf)
+-[SCRUM Certifications](https://www.scrum.org/professional-scrum-certifications)
+-[Oracle Certification](https://education.oracle.com/certification)
+-[IBM Certifications](https://www.ibm.com/certify)
+-[MySQL](https://www.mysql.com/certification/)
+-[Graph Database Certification](https://neo4j.com/graphacademy/neo4j-certification/)
+-[Shopify Partner Training](https://www.shopify.com/partners/academy)
 
