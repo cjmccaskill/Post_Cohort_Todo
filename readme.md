@@ -5,6 +5,8 @@
 
 Now that you've completed your General Assembly Cohort, the mission to find your first role in the tech industry begins. You should allocate the hours you'll been dedicating to class to this mission. Also, once you do find a role you may lose access to the GA Students Slack, to stay in touch join the devNursery.com slack and discord communities.
 
+**Advice from your Outcomes Coach Should always be followed as they present it, below is just tips based on my experience, I do not have same expertise as your career coach on how to structure your search**
+
 My recommendation is to split this time:
 - 25% Doing Code Challenges
 - 25% Learning New Tech or Solidifying Foundation
@@ -46,14 +48,19 @@ As you learn things, build small projects to practice what you learned and deplo
 ## Sending Out Job Applications
 
 - Expect output of 2 Quality Applications in one hour (Custom Cover Letter + Resume)
-- For each quality resume supplement with 4 LinkedIn Quick Apply's
+- For each quality resume, I personally would supplement with 2 LinkedIn Quick Apply's
+
+SEIR-STUDENTS
+Goal: Minimum 10 hours/wk, 20 Quality Application, + 40 LinkedIn Easy Applies (60 Applications a week)
+
+SEIR-FLEX STUDENTS
 Goal: Minimum 5 hours/wk, 10 quality applications, + 20 LinkedIn Easy Applies (30 applications a week, MINIMUM)
 
 
 ## Branding Networking
 
 - Add 10 developers, recruiters in your target area per day on linked in
-- Make one post each day about something interesting code wise (a cool trick you learned, etc.)
+- Make one LinkedIn post each day about something interesting code wise (a cool trick you learned, etc.)
 - Create and distribute a podcast for free with Anchor.fm and use it as a soundboard to discuss coding concepts and interview other developers as a way to network with developers you'd like to know better (they may not want private message back in forth, but may be enticed by being promoted in a podcast).
 - Create a youtube channel and record yourself doing code challenges and explaining your process
 - Blog on dev.to, if you get a lot of views, you may be hired by LogRocket or Digital Ocean to write posts at $300+ per post
