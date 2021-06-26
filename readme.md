@@ -108,6 +108,10 @@ Additional Ceritifications will only make you more marketable and improve your s
 - [Shopify Partner Training](https://www.shopify.com/partners/academy)
 
 ## BONUS Blockchain Development
+Blockchain along with Cloud are two quickly growing areas of development, below are resources on learning how to develop apps and smart contracts many of the biggest blockchair platforms around today. 
+
+If you new to blockchain, you can find my explanation of the technology at [BitcoinBlockchainCrypto.com]()
+
 - [Ethereum Development](https://ethereum.org/en/developers/)
 - [Algorand Development](https://developer.algorand.org/)
 - [Stellar Development](https://www.stellar.org/developers?utm_term=%2Bblockchain%20%2Bdevelopment&utm_campaign=Search:+Blockchain+Development&utm_source=adwords&utm_medium=ppc&hsa_acc=8782384464&hsa_cam=10367308229&hsa_grp=103960929795&hsa_ad=494429028414&hsa_src=g&hsa_tgt=kwd-301255712549&hsa_kw=%2Bblockchain%20%2Bdevelopment&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwlMaGBhD3ARIsAPvWd6jI1CY65RLM1f6LqZTkxgM0BFASXiCDhhDQT9YTj-IroegJJtMe4n4aAjUuEALw_wcB)
