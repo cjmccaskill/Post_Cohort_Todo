@@ -18,6 +18,7 @@ My recommendation is to split this time:
 **You can do coding challenges at the following places:**
 - [CodeWars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [CodeSignal](https://www.codewars.com/dashboard)
 - [l33tcode](https://leetcode.com/)
 - [SqlZoo](https://sqlzoo.net/)
 - [CoderByte](https://coderbyte.com/)
