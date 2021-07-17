@@ -5,6 +5,10 @@
 
 Now that you've completed your General Assembly Cohort, the mission to find your first role in the tech industry begins. You should allocate the hours you'll been dedicating to class to this mission. Also, once you do find a role you may lose access to the GA Students Slack, to stay in touch join the devNursery.com slack and discord communities.
 
+## Building Your Brand
+Read this article on building your developer brand
+- [Building your Developer Brand](https://tuts.alexmercedcoder.com/2020/branding/)
+
 ## Post-Cohort Resources from other Instructors
 - [Code Every Day](https://git.generalassemb.ly/SEIR-teams-materials/code-every-day)
 - [Post-Cohort Resources](https://git.generalassemb.ly/SEIR-teams-materials/post-course-resources)
