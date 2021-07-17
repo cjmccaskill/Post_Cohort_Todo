@@ -89,11 +89,14 @@ A Powerful Combination for Freelancing is the Headless CMS + Static Site Generat
 They pull information from different sources like a Headless CMS or your own custom API, and use your code written in your favorite frontend framework to generate a static HTML/CSS/JS web page that is fast, secure and better for SEO.
 - Gatsby(React)
 - NextJS(React)
+- Astro(React/Svelte/Vue)
+- JungleJS(Svelte)
 - SvelteKit(Svelte)
 - ElderJS(Svelte)
 - Gridsome(Vue)
 - Nuxt(Vue)
 - Scully(Angular)
+- Eleventy (EJS, Handlebars, Pug, Liquid)
 - For more checkout JAMStack.org
 
 So by Pairing a Headless CMS with a SSG, you can give your client a GUI dashboard they can manage their website but make it fast, low cost, secure and amazing for SEO by statically generating the output. A must learn for freelancing.
