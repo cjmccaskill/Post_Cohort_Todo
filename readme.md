@@ -50,6 +50,10 @@ Other Great Free Courses to Expand Skills:
 
 As you learn things, build small projects to practice what you learned and deploy them!
 
+## Learning New Languages
+The Repository below has the lessons and the build to learn how to build a full crud API in 8 Languages!
+- [POLYGLOT REPO](https://git.generalassemb.ly/AlexMerced/POLYGLOT)
+
 ## Sending Out Job Applications
 
 - Expect output of 2 Quality Applications in one hour (Custom Cover Letter + Resume)
