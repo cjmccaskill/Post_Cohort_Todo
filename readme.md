@@ -5,6 +5,10 @@
 
 Now that you've completed your General Assembly Cohort, the mission to find your first role in the tech industry begins. You should allocate the hours you'll been dedicating to class to this mission. Also, once you do find a role you may lose access to the GA Students Slack, to stay in touch join the devNursery.com slack and discord communities.
 
+## Post-Cohort Resources from other Instructors
+- [Code Every Day](https://git.generalassemb.ly/SEIR-teams-materials/code-every-day)
+- [Post-Cohort Resources(https://git.generalassemb.ly/SEIR-teams-materials/post-course-resources)
+
 **Advice from your Outcomes Coach Should always be followed as they present it, below is just tips based on my experience, I do not have same expertise as your career coach on how to structure your search**
 
 My recommendation is to split this time:
