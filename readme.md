@@ -7,7 +7,7 @@ Now that you've completed your General Assembly Cohort, the mission to find your
 
 ## Post-Cohort Resources from other Instructors
 - [Code Every Day](https://git.generalassemb.ly/SEIR-teams-materials/code-every-day)
-- [Post-Cohort Resources(https://git.generalassemb.ly/SEIR-teams-materials/post-course-resources)
+- [Post-Cohort Resources](https://git.generalassemb.ly/SEIR-teams-materials/post-course-resources)
 
 **Advice from your Outcomes Coach Should always be followed as they present it, below is just tips based on my experience, I do not have same expertise as your career coach on how to structure your search**
 
