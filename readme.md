@@ -38,6 +38,14 @@ My recommendation is to split this time:
 - Add comments that explain your logic, so people who review your practice can appreciate your thought process
 - Don't rush to do hard coding challenges, often the simplest ones will actually be some of those fruitful ones
 
+## Computer Science and Assessments
+
+- If you haven't already complete the computer sceince modules at myGA
+- Watch this [Computer Science Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbfwjU1ToZlUWCinxmFqlIp)
+- Watch all the [100 Seconds of Code Videos](https://www.youtube.com/watch?v=DC471a9qrU4&list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN)
+
+Take assessments on LinkedIn and TripleByte.com, top scores get filtered to employers as top picks. They can be taken multiple times so take an assessment and take notes of topics you may want to review for future attempts.
+
 ## Learning New Tech or Solidifying Foundation
 
 Bottom Line, you want a solid foundation in Javascript, so the first thing everyone should do post cohort is review and reinforce their javascript fundamentals by completing this freecodeacademy course.
@@ -47,6 +55,7 @@ Bottom Line, you want a solid foundation in Javascript, so the first thing every
 Other Great Free Courses to Expand Skills:
 - [Learn how to build an API in 8 Languages](https://git.generalassemb.ly/AlexMerced/SEIRPolyglot)
 - [MongoDB University](https://university.mongodb.com/)
+- [Cockroach DB University](https://www.cockroachlabs.com/cockroach-university/)
 - [Severless Framework Courses](https://www.serverless.com/courses/)
 - [FaunaDB Courses/TUtorials](https://docs.fauna.com/fauna/current/tutorials/index.html)
 - [Fullstack with SailsJS](https://sailsjs.com/documentation/tutorials/full-stack-java-script-with-sails)
