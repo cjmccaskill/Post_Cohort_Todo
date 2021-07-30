@@ -153,3 +153,35 @@ If you new to blockchain, you can find my explanation of the technology at [Bitc
 - [Waves Development](https://developer.waveapps.com/hc/en-us)
 - [Cardano Development](https://docs.cardano.org/)
 - [Ethereum Classic Development](https://ethereumclassic.org/development)
+
+## Frontend Palooza
+Tutorials giving you a taste of the main frontend frameworks
+- [React](https://tuts.alexmercedcoder.com/2021/1/reactjsonblog/)
+- [Angular](https://tuts.alexmercedcoder.com/2020/AngularBlog/)
+- [Vue](https://tuts.alexmercedcoder.com/2020/vue-tut/)
+- [Svelte](https://tuts.alexmercedcoder.com/2020/Svelte101/)
+- [SolidJS](https://tuts.alexmercedcoder.com/2021/4/SolidJS/)
+- [Stencil](https://tuts.alexmercedcoder.com/2020/StencilJS/)
+- [Native Web Components](https://tuts.alexmercedcoder.com/2020/WebComponentLibs/)
+
+## Backend Palooza
+Tutorials covering building things in the backend
+
+- Javascript
+  1. [Building an API with Just Node]()
+  2. [Building an API with Express, Fastify, KOA]()
+  3. [Express with Several Template Engines]()
+  4. [Building an API with Typescript: NestJS & FoalTS]()
+  5. [Netlify Cloud Functions](https://tuts.alexmercedcoder.com/2021/1/netlifyfunctions/)
+  6. [Vercel Cloud Functions](https://tuts.alexmercedcoder.com/2021/1/vercelfunctions/)
+  
+- Python
+  1. [Building an API with Django](https://tuts.alexmercedcoder.com/2021/3/puredjangoapi/)
+  2. [Building an API with Flask & FastAPI](https://tuts.alexmercedcoder.com/2021/7/full_crud_flask_fastapi/)
+  3. [Masonite: Pythons Ruby on Rails](https://tuts.alexmercedcoder.com/2021/5/Masonite-Python-Web-Framework-101/)
+  
+- Ruby
+  1. [Build and Deploy an API with Ruby on Rails](https://tuts.alexmercedcoder.com/2020/railsdeployment/)
+  2. [Build an API with Ruby Sinatra](https://tuts.alexmercedcoder.com/2021/7/full_crud_with_sinatra/)
+  
+  
