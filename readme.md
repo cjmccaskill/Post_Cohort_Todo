@@ -60,6 +60,8 @@ Other Great Free Courses to Expand Skills:
 - [FaunaDB Courses/TUtorials](https://docs.fauna.com/fauna/current/tutorials/index.html)
 - [Fullstack with SailsJS](https://sailsjs.com/documentation/tutorials/full-stack-java-script-with-sails)
 - [StrapiJS Self-Hosted Headless CMS Docs and Tutorials](https://strapi.io/resource-center)
+- [Redis University](https://university.redislabs.com/?_ga=2.1262839.778542661.1627602947-491347929.1627602947)
+- [University of Michigan Free Postgres Courses](https://www.online.umich.edu/series/postgresql-for-everybody/)
 
 As you learn things, build small projects to practice what you learned and deploy them!
 
@@ -131,6 +133,10 @@ Additional Ceritifications will only make you more marketable and improve your s
 - [MySQL](https://www.mysql.com/certification/)
 - [Graph Database Certification](https://neo4j.com/graphacademy/neo4j-certification/)
 - [Shopify Partner Training](https://www.shopify.com/partners/academy)
+- [Java Spring Certification](https://spring.io/training)
+- [HashiCorp Cloud Engineering Certification](https://www.hashicorp.com/certification)
+- 
+
 
 ## BONUS Blockchain Development
 Blockchain along with Cloud are two quickly growing areas of development, below are resources on learning how to develop apps and smart contracts many of the biggest blockchair platforms around today. 
