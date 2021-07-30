@@ -135,8 +135,9 @@ Additional Ceritifications will only make you more marketable and improve your s
 - [Shopify Partner Training](https://www.shopify.com/partners/academy)
 - [Java Spring Certification](https://spring.io/training)
 - [HashiCorp Cloud Engineering Certification](https://www.hashicorp.com/certification)
-- 
-
+- [Ruby Certification](https://www.ruby.or.jp/en/certification/examination/)
+- [Python Certification](https://pythoninstitute.org/certification/pcep-certification-entry-level/)
+- [Web Accessability Certification](https://www.accessibilityassociation.org/s/wascertification)
 
 ## BONUS Blockchain Development
 Blockchain along with Cloud are two quickly growing areas of development, below are resources on learning how to develop apps and smart contracts many of the biggest blockchair platforms around today. 
