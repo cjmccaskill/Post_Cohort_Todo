@@ -184,4 +184,12 @@ Tutorials covering building things in the backend
   1. [Build and Deploy an API with Ruby on Rails](https://tuts.alexmercedcoder.com/2020/railsdeployment/)
   2. [Build an API with Ruby Sinatra](https://tuts.alexmercedcoder.com/2021/7/full_crud_with_sinatra/)
   
+- Other
+  1. [Build an API in GO with Buffolo](https://tuts.alexmercedcoder.com/2021/3/introtogobuffalo/)
+  2. [Build an API in PHP with Laravel](https://tuts.alexmercedcoder.com/2021/3/laravelhelloworld/)
+  3. [Build an API in Java with Spring](https://tuts.alexmercedcoder.com/2021/3/javaspring/)
+  4. [Build an API in C# with .NET](https://tuts.alexmercedcoder.com/2021/3/dotnet5/)
+  5. [Build an API in Dart with Shelf](https://tuts.alexmercedcoder.com/2021/3/dartzerotodeploy/)
+  6. [Build an API in Rust with Rocket](https://tuts.alexmercedcoder.com/2021/3/rustrocket0todeploy/)
+  
   
