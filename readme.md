@@ -156,6 +156,9 @@ If you new to blockchain, you can find my explanation of the technology at [Bitc
 
 ## Frontend Palooza
 Tutorials giving you a taste of the main frontend frameworks
+
+**[MIND MAP OF FRONTEND TECH](https://www.mindmeister.com/1974391006/frontend-web-design)**
+
 - [React](https://tuts.alexmercedcoder.com/2021/1/reactjsonblog/)
 - [Angular](https://tuts.alexmercedcoder.com/2020/AngularBlog/)
 - [Vue](https://tuts.alexmercedcoder.com/2020/vue-tut/)
