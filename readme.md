@@ -153,6 +153,7 @@ If you new to blockchain, you can find my explanation of the technology at [Bitc
 - [Waves Development](https://developer.waveapps.com/hc/en-us)
 - [Cardano Development](https://docs.cardano.org/)
 - [Ethereum Classic Development](https://ethereumclassic.org/development)
+- [Near Smart Contracts Platform](https://near.org/developers/)
 
 ## Frontend Palooza
 Tutorials giving you a taste of the main frontend frameworks
