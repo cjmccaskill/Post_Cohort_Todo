@@ -142,7 +142,7 @@ Additional Ceritifications will only make you more marketable and improve your s
 ## BONUS Blockchain Development
 Blockchain along with Cloud are two quickly growing areas of development, below are resources on learning how to develop apps and smart contracts many of the biggest blockchair platforms around today. 
 
-If you new to blockchain, you can find my explanation of the technology at [BitcoinBlockchainCrypto.com]()
+If you new to blockchain, you can find my explanation of the technology at [https://main.bitcoinblockchaincrypto.com/]()
 
 - [Ethereum Development](https://ethereum.org/en/developers/)
 - [Algorand Development](https://developer.algorand.org/)
