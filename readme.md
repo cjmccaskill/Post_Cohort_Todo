@@ -154,6 +154,7 @@ If you new to blockchain, you can find my explanation of the technology at [Bitc
 - [Cardano Development](https://docs.cardano.org/)
 - [Ethereum Classic Development](https://ethereumclassic.org/development)
 - [Near Smart Contracts Platform](https://near.org/developers/)
+- [CryptoZombies Solidity Course](https://cryptozombies.io/en/course/)
 
 ## Frontend Palooza
 Tutorials giving you a taste of the main frontend frameworks
